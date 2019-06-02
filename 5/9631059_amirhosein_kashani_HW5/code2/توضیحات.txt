@@ -1,0 +1,11 @@
+I calculte A^T B=A^b in program  
+
+
+
+for inputs:
+0 8.8 9.29 63 104.7 159.1 222 294.5 380.4 471.1 571.7 686.8 809.2
+zarib ha:
+[-7.29681319  7.6869031   5.0398002 ]
+in time 4.5 s:
+129.35020479520543 
+its ok because it is between 4s and 5s location
